@@ -39,7 +39,7 @@ const T = {
     exp3_text         : 'Gestão por indicadores com cadência real.',
     exp4_title        : 'Implantação e Mudança',
     exp4_text         : 'Quatro ondas até a autonomia total.',
-    band_cases_title  : 'Casos Recentes',
+    band_cases_title  : 'Clientes',
     case1             : 'Manutenção Brownfield — Sudeste',
     case2             : 'Montagem Eletromecânica — Nordeste',
 
@@ -128,7 +128,7 @@ const T = {
     exp3_text         : 'Indicator-driven management with real cadence.',
     exp4_title        : 'Implementation & Change',
     exp4_text         : 'Four progressive waves to full autonomy.',
-    band_cases_title  : 'Recent Cases',
+    band_cases_title  : 'Clients',
     case1             : 'Brownfield Maintenance — Southeast Brazil',
     case2             : 'Electromechanical Assembly — Northeast Brazil',
 
